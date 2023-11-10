@@ -1,0 +1,6 @@
+- id: checkstyle
+  name: checkstyle
+  types: [java]
+  description: Runs Checkstyle.
+  language: coursier
+  entry: checkstyle
